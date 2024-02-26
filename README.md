@@ -1,1 +1,3 @@
-# convolutional-neural-network
+# Convolutional Neural Network
+
+An intro to CNN Deep Learning
